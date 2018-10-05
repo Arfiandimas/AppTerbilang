@@ -1,0 +1,11 @@
+E:\Pemrograman\TerbilangWindowsFormsApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Pemrograman\TerbilangWindowsFormsApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Pemrograman\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Pemrograman\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Pemrograman\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Pemrograman Lanjut\Terbilang\Riky\TerbilangWindowsFormsApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
